@@ -1,3 +1,5 @@
+package Lab3;
+
 public class Dice {
     private int faceValue;
 
