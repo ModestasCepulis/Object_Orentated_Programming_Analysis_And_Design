@@ -1,0 +1,32 @@
+@startuml
+skinparam classAttributeIconSize 0
+
+class Staff {
+- staffId: int
+- sName: String
+- fName: String
+- telNo: String
+
+  regStaff()
+  getStaffName(int): String
+}
+
+class Branch {
+- bno: int
+- Name: String
+- telNo: String
+}
+
+class Manager {
+- managerId: int
+- sName: String
+- fName: String
+- telNo: String
+}
+
+Staff "1" -- "0..*" Branch : works in >
+Staff "0" -- "0..*" Manager : is a >
+Manager "1" - "1..3" Branch : manages >
+
+
+@enduml

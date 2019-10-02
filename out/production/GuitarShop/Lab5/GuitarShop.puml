@@ -1,0 +1,31 @@
+@startuml
+
+class Guitar
+{
+serialNumber: String
+price: double
+builder: String
+model: String
+type: String
+backWood: String
+topWood: String
+
+}
+
+class Inventory
+{
+List: List
+}
+
+Guitar --o Inventory : aggregation
+
+enum Builder
+{
+ELECTRIC
+ACOUSTIC
+}
+
+
+
+
+@enduml

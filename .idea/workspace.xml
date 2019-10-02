@@ -1,11 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="64220923-d2ca-45ab-b4cd-112fac8406b3" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="64220923-d2ca-45ab-b4cd-112fac8406b3" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -29,6 +25,7 @@
   </component>
   <component name="ProjectId" id="1RdlDB7RD9UBOWpULAG6gME1uSe" />
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="DefaultPlantUmlFileTemplate" value="UML Sequence" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
@@ -94,7 +91,7 @@
       <workItem from="1568906658708" duration="169000" />
       <workItem from="1568906849151" duration="3166000" />
       <workItem from="1570004736712" duration="763000" />
-      <workItem from="1570007632646" duration="596000" />
+      <workItem from="1570007632646" duration="783000" />
     </task>
     <task id="LOCAL-00001" summary="Did lab 3">
       <created>1569403616721</created>
@@ -110,7 +107,14 @@
       <option name="project" value="LOCAL" />
       <updated>1569404202921</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Did Enums today which are used for string comparisons so we wouldn't have mistakes in the comparisons">
+      <created>1570008534443</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1570008534443</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -132,6 +136,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Did lab 3" />
     <MESSAGE value="Abstract classes are similar to interfaces, it enhances the usage of inheritance in our classes." />
-    <option name="LAST_COMMIT_MESSAGE" value="Abstract classes are similar to interfaces, it enhances the usage of inheritance in our classes." />
+    <MESSAGE value="Did Enums today which are used for string comparisons so we wouldn't have mistakes in the comparisons" />
+    <option name="LAST_COMMIT_MESSAGE" value="Did Enums today which are used for string comparisons so we wouldn't have mistakes in the comparisons" />
   </component>
 </project>
