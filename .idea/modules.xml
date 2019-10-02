@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/zoo.iml" filepath="$PROJECT_DIR$/zoo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/GuitarShop.iml" filepath="$PROJECT_DIR$/GuitarShop.iml" />
     </modules>
   </component>
 </project>
